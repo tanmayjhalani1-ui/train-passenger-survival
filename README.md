@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="assets/portfolio-banner.svg" alt="Passenger Survival Prediction — Tanmay Jhalani" width="100%" />
+</div>
+
+<div align="center">
+  <strong>Designed and engineered by Tanmay Jhalani</strong> · <a href="https://github.com/tanmayjhalani1-ui">GitHub Profile</a>
+</div>
+
+---
+
 # Passenger Survival Prediction
 
 An end-to-end machine learning project that extends the original passenger survival notebook into a reproducible training workflow, experiment tracking, interactive dashboard, and lightweight prediction API.
